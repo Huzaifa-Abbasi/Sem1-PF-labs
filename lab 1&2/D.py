@@ -1,0 +1,10 @@
+first_name= input ( 'Enter your first name: ')
+last_name= input ('Enter your last name: ')
+full_name= first_name+last_name
+print("My full name is: ",full_name)
+l1=len(first_name)
+l2=len(last_name)
+l3=len(full_name)
+print ( 'length of first name is:',l1)
+print ( 'lenght of last name is :',l2)
+print ( 'lenght of full name is :',l3)
